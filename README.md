@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Anisshaikh27/Anisshaikh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
 
-Here are some ideas to get you started:
+🔨 **Currently Working On:**  
+Frontend minor projects (excluding deployments).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Currently Learning:**  
+- Backend technologies like Node.js.  
+- Databases: SQL & NoSQL (MongoDB).  
+- Cloud and deployment tools, including AWS.
+
+🤝 **Looking to Collaborate On:**  
+- End-to-end web development projects.  
+- AI integrations in web applications.
+
+💡 **Looking for Help With:**  
+- Cloud computing and deployment.  
+- AI integration into web projects.
+
+📬 **How to Reach Me:**  
+You can connect with me on [LinkedIn](#) and [Instagram](#).  
+
+🎉 **Fun Fact:**  
+I believe debugging is the most satisfying (and frustrating) part of coding!
+
+---
+Feel free to collaborate or connect!
